@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"how to use this app 1","desc":"In the realm of horror literature and cinematic endeavors, certain characters have etched themselves into the collective imagination of audiences around the world. Amanda Horror, ","photo":"https://iili.io/HUuaOPe.png"},
+  {"title":"helper mod 2","desc":"an enigmatic figure, has emerged as a symbol of terror and intrigue. Known for her dark allure and spine-chilling tales, Amanda Horror has become a subject of fascination among horror enthusiasts. ","photo":"https://iili.io/HUua8Sj.jpg"},
+  {"title":"tips pack 3","desc":"This article delves into the enigmatic world of Amanda Horror, exploring her origins, defining characteristics, and the impact she has had on the genre.","photo":"https://iili.io/HUuaGSf.jpg"},
+  {"title":"advice mod 4","desc":"The genesis of Amanda Horror's character can be traced back to the 19th century when Gothic literature and Victorian horror were at their zenith.","photo":"https://iili.io/HUuagAQ.png"},
+  {"title":"advance pack 5","desc":" Drawing inspiration from classic authors such as Edgar Allan Poe, H.P. Lovecraft, and Mary Shelley, Amanda Horror embodies the dark romanticism and macabre aesthetics that pervaded the works of these literary icons.","photo":"https://iili.io/HUuaWAl.jpg"},
+  {"title":"helper mod 6","desc":" Drawing inspiration from classic authors such as Edgar Allan Poe, H.P. Lovecraft, and Mary Shelley, Amanda Horror embodies the dark romanticism and macabre aesthetics that pervaded the works of these literary icons.","photo":"https://iili.io/HUuaNV9.jpg"},
+  {"title":"tips pack 7","desc":"Amanda Horror personifies the femme fatale archetype, an embodiment of seductive danger lurking beneath an alluring facade. Her physical appearance often reflects an otherworldly beauty that captivates those who encounter her.","photo":"https://iili.io/HUuavcb.jpg"},
+  {"title":"advice mod 8","desc":" With long, flowing raven-black hair, piercing eyes, and an aura of mystique, Amanda Horror embodies both attraction and repulsion, drawing victims into her web of terror.","photo":"https://iili.io/HUuaGSf.jpg"}
    ]
  
 }
